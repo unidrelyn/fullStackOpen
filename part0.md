@@ -1,5 +1,5 @@
 # Exercise 0.4
-## sequenceDiagram
+sequenceDiagram
 
 browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
 server-->browser: HTTP 302
